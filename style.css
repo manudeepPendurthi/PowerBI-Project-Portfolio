@@ -46,22 +46,22 @@ img {
 }
 
 h1,h2,h3 {
-	font-size: 2em;
+	font-size: 2rem;
     margin: 0
 }
 
 p {
-    font-size: 1.5em;
-	margin: 0.5em;
-	margin-top: 1em;
-    margin-bottom: 1em
+    font-size: 1.5rem;
+	margin: 0.5rem;
+	margin-top: 1rem;
+    margin-bottom: 1rem
 
 }
 li{
-    margin: 2em;
-	font-size: 1em;
-    margin-top: 0.1em;
-    margin-bottom: 0.1em
+    margin: 2rem;
+	font-size: 1rem;
+    margin-top: 0.1rem;
+    margin-bottom: 0.1rem
 }
 
 
@@ -79,7 +79,7 @@ body {
     font: 100% "Work Sans", Helvetica, sans-serif;
     color: #616161;
     background-color: #edba00;
-    line-height: 1.5;
+    line-height: 1.5rem;
     position: relative;
 }
 
