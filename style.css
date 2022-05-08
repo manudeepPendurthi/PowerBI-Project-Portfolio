@@ -20,16 +20,11 @@ html {
     box-sizing: inherit
 }
 
-html, body, { 
-    position:fixed; 
-    top:0; 
-    bottom:0; 
-    left:0; 
-    right:0; 
-} 
+
 
 html,body,ul,ol,figure {
     margin: 0;
+	width=device-width;
     padding: 0
 }
 
