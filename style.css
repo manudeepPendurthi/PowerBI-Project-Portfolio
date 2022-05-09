@@ -388,13 +388,15 @@ footer ul li:first-child:before {
 
 footer ul li a {
     letter-spacing: .0625rem;
+	color: #000000;
     cursor: pointer
 }
 
 footer ul li a:after {
     content: "";
+	color: #000000;
     display: block;
-    background-color: transparent;
+    background-color: #000000;
     position: absolute;
     bottom: -3px;
     left: 0;
@@ -409,7 +411,8 @@ footer ul li a:after {
 }
 
 footer ul li a:hover:after {
-    background-color: #1004c5;
+    background-color: #000000;
+	color: #000000;
     -webkit-transform: scaleX(1);
     transform: scaleX(1)
 }
