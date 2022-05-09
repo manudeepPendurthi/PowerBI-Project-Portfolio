@@ -11,8 +11,9 @@
 }
 
 html {
+	text-align: left;
     box-sizing: border-box;
-    font-size: 17px;
+    font-size: 26px;
     -webkit-tap-highlight-color: transparent
 }
 
@@ -147,6 +148,7 @@ b {
 
 .intro .intro-text {
     position: absolute;
+	text-align: left;
 	color: #000000;
     top: 50%;
     -webkit-transform: translateY(-50%);
